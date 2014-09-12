@@ -5,4 +5,7 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 
-%解决冲突问题%
+<<<<<<< HEAD
+=======
+#解决冲突问题#
+>>>>>>> dev
