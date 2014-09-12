@@ -6,4 +6,9 @@ My stupid boss still prefers SVN.
 
 
 -----/////a
+<<<<<<< HEAD
 切换的冲突问题
+=
+
+cccc
+
